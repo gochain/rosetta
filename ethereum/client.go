@@ -953,7 +953,7 @@ func (ec *Client) miningReward(
 	// }
 
 	// return blockReward
-	return 1
+	return 7
 }
 
 func (ec *Client) blockRewardTransaction(
